@@ -25,7 +25,7 @@ Welcome to my personal portfolio website! Here's a quick guide on how to use it:
 
 You can navigate my website using the main menu located at the top of the page. Click on the "Projects" tab to view my projects, "About" tab to learn more about me, and "Contact" tab to get in touch with me.
 
-### Contact
+### Connect
 
 To connect with me, click on the given links to connect with my social media platforms like Linkedin, Twitter, and GitHub.
 
